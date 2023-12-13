@@ -15,8 +15,8 @@ description: This is some writing!
 ## header
 
 - first
- -inner
--second
+ - inner
+- second
 " %}
 
 {% @dan_test_1/dan_test_1 content="Replace default content" %}
