@@ -20,6 +20,14 @@ description: This is some writing!
     - Indented item
     - Indented item
 - Fourth item
+
+### Table
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 " %}
 
 {% @dan_test_1/dan_test_1 content="Replace default content" %}
