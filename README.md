@@ -10,6 +10,8 @@ description: This is some writing!
 
 {% @dan_test_1/dan_test_1 content="Click somthing way dif with other stuff" %}
 
+{% @dan_test_1/dan_test_1 content="Replace default content" %}
+
 
 
 {% @dan_test_1/dan_test_1 content="Click mroe stuff" %}
