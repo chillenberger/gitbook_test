@@ -10,11 +10,7 @@ description: This is some writing!
 
 
 
-{% @dan_test_1/dan_test_1 fullWidth="false" %}
-
 {% @dan_test_1/dan_test_1 %}
-
-
 
 {% hint style="info" %}
 test
