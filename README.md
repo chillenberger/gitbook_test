@@ -14,9 +14,12 @@ description: This is some writing!
 
 ## header
 
-- first
-  - inner
-- second
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
 " %}
 
 {% @dan_test_1/dan_test_1 content="Replace default content" %}
