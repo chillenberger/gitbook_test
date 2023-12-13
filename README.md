@@ -8,12 +8,16 @@ description: This is some writing!
 
 
 
-{% @dan_test_1/dan_test_1 content=" **bolded** 
+{% @dan_test_1/dan_test_1 content="**bolded** 
+
 > quoted
+
 ## header
+
 - first
  -inner
--second" %}
+-second
+" %}
 
 {% @dan_test_1/dan_test_1 content="Replace default content" %}
 
