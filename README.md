@@ -8,11 +8,9 @@ description: This is some writing!
 
 
 
+{% @dan_test_1/dan_test_1 content="test props" %}
 
 
-{% @dan_test_1/dan_test_1 %}
-
-{% @dan_test_1/dan_test_1 %}
 
 {% hint style="info" %}
 test
@@ -32,6 +30,3 @@ even more
 
 </details>
 
-
-
-{% @dan_test_1/dan_test_1 %}
