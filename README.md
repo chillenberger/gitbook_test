@@ -6,7 +6,7 @@ description: This is some writing!
 
 ## A <mark style="color:blue;">big header</mark>
 
-
+Test links [#test](./#test "mention") lets take a look. [page-1.md](page-1.md "mention") hmmm.
 
 {% @dan_test_1/dan_test_1 content="**bolded** 
 
