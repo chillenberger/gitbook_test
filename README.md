@@ -66,3 +66,17 @@ even more
 {% content-ref url="page-1.md" %}
 [page-1.md](page-1.md)
 {% endcontent-ref %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Tab 1
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Tab 2
+{% endtab %}
+
+{% tab title="Untitled" %}
+Tab 3
+{% endtab %}
+{% endtabs %}
