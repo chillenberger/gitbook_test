@@ -56,12 +56,14 @@ even more
 
 
 
+{% code title="Test name for html" lineNumbers="true" %}
 ```html
 <div>
     This is a div
     <a>link in code</a>
 </div>
 ```
+{% endcode %}
 
 {% content-ref url="page-1.md" %}
 [page-1.md](page-1.md)
