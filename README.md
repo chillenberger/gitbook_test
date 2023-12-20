@@ -34,6 +34,8 @@ Test links [#test](./#test "mention") lets take a look. [page-1.md](page-1.md "m
 
 
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>card 1</td><td></td></tr><tr><td></td><td>card 2</td><td></td></tr></tbody></table>
+
 {% @dan_test_1/dan_test_1 content="Click mroe stuff" %}
 
 {% hint style="info" %}
