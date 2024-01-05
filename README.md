@@ -6,7 +6,11 @@ description: This is some writing!
 
 ## A <mark style="color:blue;">big header</mark>
 
-Test links [#test](./#test "mention") lets take a look. [page-1.md](page-1.md "mention") hmmm.
+<mark style="color:blue;">this is</mark> [<mark style="color:blue;">some stuff t</mark>](page-1/)<mark style="color:blue;">hat I want to link somewhere.</mark>
+
+Test links [#test](./#test "mention") lets take a look. [page-1](page-1/ "mention") hmmm.
+
+small change to get merge to work.
 
 {% @dan_test_1/dan_test_1 content="**bolded** 
 
@@ -42,7 +46,7 @@ Test links [#test](./#test "mention") lets take a look. [page-1.md](page-1.md "m
 test
 {% endhint %}
 
-A paragraph with a link to [Page 1](page-1.md).  But this link goes to [Header level 2 in page 1](page-1.md#a-level-2-header)
+A paragraph with a link to [Page 1](page-1/).  But this link goes to [Header level 2 in page 1](page-1/#a-level-2-header)
 
 <details>
 
@@ -69,8 +73,8 @@ even more
 ```
 {% endcode %}
 
-{% content-ref url="page-1.md" %}
-[page-1.md](page-1.md)
+{% content-ref url="page-1/" %}
+[page-1](page-1/)
 {% endcontent-ref %}
 
 {% tabs %}
