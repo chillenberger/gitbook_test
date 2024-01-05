@@ -42,6 +42,8 @@ Test links [#test](./#test "mention") lets take a look. [page-1.md](page-1.md "m
 test
 {% endhint %}
 
+A paragraph with a link to [Page 1](page-1.md).  But this link goes to [Header level 2 in page 1](page-1.md#a-level-2-header)
+
 <details>
 
 <summary>test</summary>
@@ -84,3 +86,7 @@ Tab 2
 Tab 3
 {% endtab %}
 {% endtabs %}
+
+
+
+{% file src=".gitbook/assets/test.txt" %}
